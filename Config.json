@@ -1,0 +1,55 @@
+{
+  "DBPoint": 0,
+  "DBList": [
+    {
+      "DBDriver": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+      "DBConnectionString": "jdbc:sqlserver://localhost:1433;databaseName=T_work",
+      "DBUserName": "sa",
+      "DBUserPass": "7777"
+    },
+    {
+      "DBDriver": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+      "DBConnectionString": "jdbc:sqlserver://localhost:1433;databaseName=T_work",
+      "DBUserName": "sa",
+      "DBUserPass": "7777"
+    },{
+      "DBDriver": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+      "DBConnectionString": "jdbc:sqlserver://localhost:1433;databaseName=T_work",
+      "DBUserName": "sa",
+      "DBUserPass": "7777"
+    },{
+      "DBDriver": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+      "DBConnectionString": "jdbc:sqlserver://localhost:1433;databaseName=T_work",
+      "DBUserName": "sa",
+      "DBUserPass": "7777"
+    },{
+      "DBDriver": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+      "DBConnectionString": "jdbc:sqlserver://localhost:1433;databaseName=T_work",
+      "DBUserName": "sa",
+      "DBUserPass": "7777"
+    }
+  ],
+  "EntityPackage": "Entity.",
+  "EntityList": [
+    {
+      "EntityName": "Bean_YiCheConfig",
+      "EntityPrimaryKey": "C_ID"
+    },
+    {
+      "EntityName": "Bean_YChose",
+      "EntityPrimaryKey": "C_ID"
+    },
+    {
+      "EntityName": "Bean_T_YSpecialConfig",
+      "EntityPrimaryKey": "C_ID"
+    },
+    {
+      "EntityName": "/Bean_T_YConfig",
+      "EntityPrimaryKey": "C_ID"
+    },
+    {
+      "EntityName": "/Bean_T_YiCheConfig",
+      "EntityPrimaryKey": "C_ID"
+    }
+  ]
+}
